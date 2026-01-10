@@ -1,13 +1,13 @@
 ````verilog
 task run_test();
-    	reg [31:0] read_data;
+	reg [31:0] read_data;
 	begin
-  	    err = 0;
-            $display("=====================================");	
-  	    $display("=== Check APB Protocol ====");
-  	    $display("=====================================");	
+	err = 0;
+	$display("=====================================");	
+	$display("=== Check APB Protocol ====");
+	$display("=====================================");	
         
-        //normal APB 
+	//normal APB 
 	$display("\nNormal APB "); 
 	test_bench.apb_write_register(12'h004, 32'hffff_ffff, 4'b1111);
 	test_bench.apb_read_register(12'h004, read_data);
