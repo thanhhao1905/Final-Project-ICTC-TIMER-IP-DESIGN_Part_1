@@ -1,4 +1,3 @@
-````verilog
 module reg_module
 (
 	input wire clk,
