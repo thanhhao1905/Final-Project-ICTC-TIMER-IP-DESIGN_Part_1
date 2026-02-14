@@ -1,4 +1,3 @@
-````verilog
 module test_bench;
 	
 	reg sys_clk;
