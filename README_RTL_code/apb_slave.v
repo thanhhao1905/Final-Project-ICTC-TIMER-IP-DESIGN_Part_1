@@ -1,4 +1,3 @@
-````verilog
 module apb_slave
 (
 	input wire psel,
