@@ -1,3 +1,5 @@
+## You can view the full project documentation here: [Timer_IP_Design_Document](Timer_IP_Design_Document.pdf)
+
 <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/4dad40a3-668b-4228-ad25-48fd21f549c4" />
 <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/c04cbfd1-fc98-4629-bc3e-cb5ecc505363" />
 <img width="2000" height="2825" alt="image" src="https://github.com/user-attachments/assets/d420c69e-16d4-4fc7-8794-9fd85ac0a035" />
